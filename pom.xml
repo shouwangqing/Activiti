@@ -64,6 +64,7 @@
 	</properties>
 
 	<dependencyManagement>
+		<!--activiti工程依赖的第三方程序包-->
 		<dependencies>
 			<dependency>
 				<groupId>cglib</groupId>
